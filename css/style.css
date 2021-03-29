@@ -2,21 +2,21 @@
 
 @font-face {
     font-family:AppleSDGothicNeoB;
-    src:url(../font/AppleSDGothicNeoB.eot) format('eot');
-    src:url(../font/AppleSDGothicNeoB.woff) format('woff');
-    src:url(../font/AppleSDGothicNeoB.ttf) format('truetype');
+    src:url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/font/AppleSDGothicNeoB.eot) format('eot');
+    src:url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/font/AppleSDGothicNeoB.woff) format('woff');
+    src:url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/font/AppleSDGothicNeoB.ttf) format('truetype');
 }
 @font-face {
     font-family:AppleSDGothicNeoL;
-    src:url(../font/AppleSDGothicNeoL.eot) format('eot');
-    src:url(../font/AppleSDGothicNeoL.woff) format('woff');
-    src:url(../font/AppleSDGothicNeoL.ttf) format('truetype');
+    src:url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/font/AppleSDGothicNeoL.eot) format('eot');
+    src:url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/font/AppleSDGothicNeoL.woff) format('woff');
+    src:url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/font/AppleSDGothicNeoL.ttf) format('truetype');
 }
 @font-face {
     font-family:AppleSDGothicNeoM;
-    src:url(../font/AppleSDGothicNeoM.eot) format('eot');
-    src:url(../font/AppleSDGothicNeoM.woff) format('woff');
-    src:url(../font/AppleSDGothicNeoM.ttf) format('truetype');
+    src:url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/font/AppleSDGothicNeoM.eot) format('eot');
+    src:url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/font/AppleSDGothicNeoM.woff) format('woff');
+    src:url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/font/AppleSDGothicNeoM.ttf) format('truetype');
 }
 
 body {font-family:AppleSDGothicNeoB;}
@@ -65,7 +65,7 @@ a {text-decoration: none; display: block; color:#fff;}
 
 
 #section1 {
-    background-image: url(../img/main-bg.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/img/main-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -132,7 +132,7 @@ a {text-decoration: none; display: block; color:#fff;}
 
 
 #section2 {
-    background-image:url(../img/main-bg.png);
+    background-image:url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/img/main-bg.png);
     display: flex;
     justify-content: space-around;
     padding-top:7vw;
@@ -240,7 +240,7 @@ a {text-decoration: none; display: block; color:#fff;}
 
 
 #section3 {
-    background-image: url(../img/web-title-bg.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/img/web-title-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -266,7 +266,7 @@ a {text-decoration: none; display: block; color:#fff;}
 
 
 #section4 {
-    background-image: url(../img/web-bg.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/img/web-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -375,7 +375,7 @@ a {text-decoration: none; display: block; color:#fff;}
 
 
 #section5 {
-    background-image: url(../img/design-title-bg.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/img/design-title-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -402,7 +402,7 @@ a {text-decoration: none; display: block; color:#fff;}
 
 
 #section6 {
-    background-image: url(../img/design-bg.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/img/design-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -465,7 +465,7 @@ a {text-decoration: none; display: block; color:#fff;}
 
 
 #section7 {
-    background-image: url(../img/contect-title-bg.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/img/contect-title-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -491,7 +491,7 @@ a {text-decoration: none; display: block; color:#fff;}
 
 
 #section8 {
-    background-image: url(../img/main-bg.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/suyeon/img/main-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
